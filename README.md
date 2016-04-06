@@ -1,3 +1,9 @@
+# This repo has moved!
+
+### mongo-express now resides among the official docker images here:
+
+## [hub.docker.com/_/mongo-express](https://hub.docker.com/_/mongo-express/)
+
 # What is mongo-express?
 
 mongo-express is a web-based MongoDB admin interface written in Node.js, Express.js, and Bootstrap3.
